@@ -1,0 +1,52 @@
+HouseSize,HousePrice,State,HouseType
+1400,220000,CA,Single Family
+1600,250000,TX,Apartment
+1700,275000,NY,Condo
+1875,320000,FL,Single Family
+1100,200000,CA,Condo
+1550,230000,TX,Single Family
+2350,385000,NY,Apartment
+2450,400000,FL,Single Family
+1425,225000,CA,Condo
+1700,290000,TX,Apartment
+1800,310000,FL,
+2000,350000,CA,Single Family
+1600,265000,TX,Apartment
+2100,330000,NY,Condo
+1850,290000,FL,Single Family
+1950,315000,CA,Condo
+2200,380000,TX,Single Family
+2400,400000,FL,Single Family
+1400,220000,CA,Single Family
+1600,250000,TX,Apartment
+1700,275000,NY,Condo
+1875,320000,FL,Single Family
+1100,200000,CA,Condo
+1550,230000,,Single Family
+2350,385000,NY,Apartment
+2450,400000,FL,Single Family
+1425,225000,CA,Condo
+1700,290000,TX,Apartment
+1800,310000,FL,Single Family
+2000,350000,CA,Single Family
+1600,265000,TX,Apartment
+2100,330000,NY,Condo
+1850,290000,FL,Single Family
+1950,315000,CA,Condo
+2200,380000,TX,Single Family
+2400,400000,FL,Single Family
+1600,255000,CA,Apartment
+1900,280000,TX,Condo
+2000,295000,NY,Single Family
+2100,320000,FL,Apartment
+1750,275000,CA,Condo
+1500,210000,TX,Single Family
+,,NY,Condo
+2500,400000,FL,Single Family
+2000,325000,CA,Condo
+1750,260000,TX,Apartment
+1950,300000,NY,Single Family
+1800,310000,FL,Condo
+2300,380000,CA,Single Family
+2150,340000,TX,Apartment
+1600,,FL,Single Family
